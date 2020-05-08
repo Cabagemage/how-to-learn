@@ -2,11 +2,11 @@
 @import url(./__main-text/two-columns__main-text.css);
 @import url(./__paragraph/two-columns__paragraph.css);
 @import url(./__span-accent/two-columns__span-accent.css);
-.two-columns{   
+.two-columns {
     color: black;
-    margin-left:auto;
-    margin-right:auto;
+    margin-left: auto;
+    margin-right: auto;
     width: 80%;
-    display:flex;
+    display: flex;
     justify-content: space-between;
-  }
+}
